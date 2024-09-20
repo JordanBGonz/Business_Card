@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Android</string>
+    <string name="business_name">Jordan Blocker-Gonzales</string>
+    <string name="occupation">Android Developer Extraordinaire</string>
+    <string name="phone_number" tools:ignore="TypographyDashes">(123)555-6666</string>
+    <string name="email" tools:ignore="Typos">jmblockergonzales1@buffs.wtamu.edu</string>
+</resources>
